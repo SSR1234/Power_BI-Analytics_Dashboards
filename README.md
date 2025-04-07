@@ -1,17 +1,27 @@
 # 🏥 SankarPrema Hospital – Power BI Healthcare Analytics Portfolio
 
-## Table of Contents  
+## 📚 Table of Contents
 
 - [Project Overview](#-project-overview)
-- [Key Features](#key-features)  
-- [Dataset Information](#-dataset-information)   
-- [Project Goals](#-project-goals)  
-- [How to Use the Dashboard](#-how-to-use-the-dashboard)
+- [About SankarPrema Hospital](#-about-sankarprema)
+- [Steps in Project](#-steps-in-project)
+- [Dataset Information](#-dataset-information)
+- [Dashboards Overview](#-dashboard-overview)
+  - [Patient Admissions & ER Dashboard](#-patient-admissions--er-dashboard)
+  - [Demographics Dashboard](#-demographics-dashboard)
+  - [Operational Performance Dashboard](#-operational-performance-dashboard)
+  - [Financial Insights Dashboard](#-financial-insights-dashboard)
+  - [Patient Info Dashboard](#-patient-info-dashboard)
+- [Project Screenshots](#-project-screenshots)
+
+
+ 
+  
 
 ## 📽 Project Overview
 The SankarPrema Hospital – Healthcare Analytics Portfolio is a comprehensive Power BI project designed to deliver high-impact, data-driven insights for hospital administrators, healthcare analysts, and strategic decision-makers.Through rich visualizations and dynamic dashboards, this project offers a holistic view of hospital operations — from patient admissions and ER performance to operational efficiency and financial outcomes. Each dashboard has been built with precision, ensuring clarity, interactivity, and real-world relevance.
 
-## 🏥 About SankarPrema
+## 🏥 About SankarPrema 
 SankarPrema Hospital is a fictional yet futuristic healthcare institution built across 5 countries and 15 cities, with the mission 🕊<p align="center">
   <strong><em>"Caring Beyond Medicine, Healing with Divinity"</em></strong>
 </p> This project is structured as a portfolio showcase that simulates realistic hospital scenarios using carefully crafted datasets.
@@ -53,7 +63,7 @@ Here's a detailed overview of all datasets used:
 
 
 
-## 📊 What You’ll Find Inside:(Total Dashboards 6)
+## 📊 Dashboard Overview
 ### 🏥 Patient Admissions & ER Dashboard
 - Dive deep into real-time and historical admission data to understand how patients interact with emergency and inpatient services. This dashboard covers:
 - Emergency Room visit reasons and frequency
@@ -109,6 +119,5 @@ This dashboard delivers a 360° patient-centric view, split into two detailed se
 - Admission & Discharge Date summary
 
 ## 🖼️ Project Screenshots
-
 
   
