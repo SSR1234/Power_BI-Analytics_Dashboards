@@ -12,7 +12,7 @@
   - [Operational Performance Dashboard](#-operational-performance-dashboard)
   - [Financial Insights Dashboard](#-financial-insights-dashboard)
   - [Patient Info Dashboard](#-patient-info-dashboard)
- - [Project Screenshots](#project-screenshots)
+ - [Project Screenshots](#-project-screenshots)
 
 
 
