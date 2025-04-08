@@ -12,7 +12,7 @@
   - [Operational Performance Dashboard](#-operational-performance-dashboard)
   - [Financial Insights Dashboard](#-financial-insights-dashboard)
   - [Patient Info Dashboard](#-patient-info-dashboard)
-- [Project Screenshots](#-project-screenshots)
+
 
 
  
@@ -118,6 +118,6 @@ This dashboard delivers a 360° patient-centric view, split into two detailed se
 - Length of Stay, Readmission Flag
 - Admission & Discharge Date summary
 
-### 🖼️ Project Screenshots
+
 
   
