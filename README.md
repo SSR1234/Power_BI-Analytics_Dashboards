@@ -101,7 +101,7 @@ Here's a detailed overview of all datasets used:
 - Department-wise and treatment-wise revenue contribution
 - Profitability tracking by patient profile and department
 
-### 🧑‍⚕️ Patient Info Dashboard 
+### Patient Info Dashboard 
 This dashboard delivers a 360° patient-centric view, split into two detailed sections:
 
 #### 🔹 Left Panel – General & Clinical Info
