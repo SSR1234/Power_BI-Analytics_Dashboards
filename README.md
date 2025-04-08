@@ -6,13 +6,13 @@
 - [About SankarPrema Hospital](#-about-sankarprema)
 - [Steps in Project](#-steps-in-project)
 - [Dataset Information](#-dataset-information)
+- [Project Screenshots](#-project-screenshots)
 - [Dashboards Overview](#-dashboard-overview)
   - [Patient Admissions & ER Dashboard](#-patient-admissions--er-dashboard)
   - [Demographics Dashboard](#-demographics-dashboard)
   - [Operational Performance Dashboard](#-operational-performance-dashboard)
   - [Financial Insights Dashboard](#-financial-insights-dashboard)
   - [Patient Info Dashboard](#-patient-info-dashboard)
-- [Project Screenshots](#-project-screenshots)
 
 
 
