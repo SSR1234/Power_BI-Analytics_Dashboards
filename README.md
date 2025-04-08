@@ -119,7 +119,7 @@ This dashboard delivers a 360° patient-centric view, split into two detailed se
 - Length of Stay, Readmission Flag
 - Admission & Discharge Date summary
 
-## 🖼️ Project Screenshots
+### 🖼️ Project Screenshots
 ![image](https://github.com/user-attachments/assets/f75480a5-da1c-49b9-b954-19576d1dca06) ![image](https://github.com/user-attachments/assets/2f72e1b7-987d-49a1-9c15-8ca63eedf527)![image](https://github.com/user-attachments/assets/6c735edf-4eb7-43de-aeb5-21df2cabb927) ![image](https://github.com/user-attachments/assets/081d9490-284e-40ea-874d-32e3997a5a7b) ![image](https://github.com/user-attachments/assets/2f4c21d7-1a22-409e-adb5-ab1ed6f588e3)
 ![image](https://github.com/user-attachments/assets/2b6d6f94-ccce-4d74-85c1-84cf4f84ae53)
 
