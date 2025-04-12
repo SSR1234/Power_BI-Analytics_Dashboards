@@ -24,7 +24,7 @@
 The SankarPrema Hospital – Healthcare Analytics Portfolio is a comprehensive Power BI project designed to deliver high-impact, data-driven insights for hospital administrators, healthcare analysts, and strategic decision-makers.Through rich visualizations and dynamic dashboards, this project offers a holistic view of hospital operations — from patient admissions and ER performance to operational efficiency and financial outcomes. Each dashboard has been built with precision, ensuring clarity, interactivity, and real-world relevance.
 
 ## 🏥 About SankarPrema 
-SankarPrema Hospital is a fictional yet futuristic healthcare institution built across 5 countries and 15 cities, with the mission 🕊<p align="center">
+SankarPrema Hospital is a fictional yet futuristic healthcare institution built across 5 countries and 72 cities, with the mission 🕊<p align="center">
   <strong><em>"Caring Beyond Medicine, Healing with Divinity"</em></strong>
 </p> This project is structured as a portfolio showcase that simulates realistic hospital scenarios using carefully crafted datasets.
 
